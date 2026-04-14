@@ -167,7 +167,6 @@ efficient-learning/
 - **口诀**："Trust the Process"
 - **图示**：调用栈展开过程
 
-[查看完整示例](examples/递归_示例.html)
 
 ### 示例 2：MCP 协议
 
