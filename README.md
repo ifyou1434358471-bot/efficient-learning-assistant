@@ -10,10 +10,10 @@
 
 高效学习助手是一个**学习增强型 SKILL**，当你需要理解任何概念时使用。它通过多模态学习方式帮你建立深度理解：
 
-- 🌟 **生活化例子** - 用熟悉的场景解释抽象概念
-- 📚 **通俗讲解** - 大白话讲清楚复杂原理
-- 🧠 **记忆口诀** - 快速记忆的技巧和联想
-- 📊 **可视化图示** - SVG 图表帮你建立直观认知
+-  **生活化例子** - 用熟悉的场景解释抽象概念
+-  **通俗讲解** - 大白话讲清楚复杂原理
+-  **记忆口诀** - 快速记忆的技巧和联想
+-  **可视化图示** - SVG 图表帮你建立直观认知
 
 最终生成**精美的交互式 HTML 学习笔记**，支持打印和离线查看。
 
@@ -188,10 +188,10 @@ efficient-learning/
 
 A **learning-enhancement SKILL** that helps you understand any concept through multi-modal learning:
 
-- 🌟 **Relatable Examples** - Explain abstract concepts with familiar scenarios
-- 📚 **Plain Explanations** - Complex ideas in simple words
-- 🧠 **Memory Tricks** - Mnemonics and associations for quick recall
-- 📊 **Visual Diagrams** - SVG charts for intuitive understanding
+-  **Relatable Examples** - Explain abstract concepts with familiar scenarios
+-  **Plain Explanations** - Complex ideas in simple words
+-  **Memory Tricks** - Mnemonics and associations for quick recall
+-  **Visual Diagrams** - SVG charts for intuitive understanding
 
 Generates **beautiful interactive HTML learning notes**.
 
